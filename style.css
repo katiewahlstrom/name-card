@@ -1,0 +1,21 @@
+.hello {
+  font-size: 50px;
+}
+.my-name-is {
+  font-size: 25px;
+}
+#nameTagName {
+  background-color: white;
+  color: black;
+  font-size: 50px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.box1 {
+  height: 300px;
+  width: 400px;
+  background-color: red;
+  color: white;
+  border-radius: 15px;
+}
